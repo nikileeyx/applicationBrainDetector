@@ -1,1 +1,1 @@
-# applicationBrainDetector
+# brain-tumor-detection-django
